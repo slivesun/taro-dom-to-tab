@@ -1,16 +1,17 @@
 # taro-dom-to-tab
-taro/react/taro-ui/Ts
+新手创建的最简单的demo步骤，环境只需要node 12.*.* 环境搭建随便百度都能出来，然后安装taro->taro命令初始化项目->用编辑器打开运行->照文档开发
+内容：taro/react/taro-ui/Ts
 
-# 本仓库为taro 多端小程序 dom
+# 本仓库为taro 多端小程序 demo
 # 技术栈taro-react风格、ts
 # ui组件库taro-ui
-## 此dom安装依赖后可能会遇到taro-ui引入样式报错需要执行命令
+## 此demo安装依赖后可能会遇到taro-ui引入样式报错需要执行命令
 ` npm install taro-ui@3.0.0-alpha.3 `
 
 
 
 
-# 新建dom具体步骤
+# 新建demo具体步骤
 ### 1.安装taro脚手架 
 ####  node 环境（>=12.0.0）
 全局安装命令
