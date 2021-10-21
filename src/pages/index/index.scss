@@ -1,0 +1,35 @@
+@import "~taro-ui/dist/style/components/button.scss";
+@import "~taro-ui/dist/style/components/loading.scss";
+@import "~taro-ui/dist/style/components/noticebar.scss";
+@import "~taro-ui/dist/style/components/icon.scss";
+
+.index {
+    .test-h {
+        .demo-text {
+            width: 100%;
+            height: 100%;
+
+            .img {
+
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+
+    .line {
+        margin: 20px;
+        height: 200px;
+        background-color: rgba(194, 130, 34, 0.466);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: initial;
+        font-size: 61px;
+        letter-spacing: 16px;
+    }
+
+    .item {
+        margin-bottom: 10px;
+    }
+}

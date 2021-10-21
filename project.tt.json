@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "supplier-wx-ep-ui",
+  "appid": "touristappid",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
