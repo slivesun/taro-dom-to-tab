@@ -18,7 +18,7 @@ export default class GingerJuice extends Component {
     render() {
         return (
             <View className='index'>
-                <View>姜汁永远是姜汁，到死也变不成小黑</View>
+                <View>姜汁永远是姜汁，咋滴也变不成小黑</View>
                 姜汁专属页面
             </View>
         )

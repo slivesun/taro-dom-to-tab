@@ -18,7 +18,7 @@ export default class BlackCattle extends Component {
     render() {
         return (
             <View className='index'>
-                <View>小黑永远是小黑，到死也变不成姜汁</View>
+                <View>小黑永远是小黑，咋滴也变不成姜汁</View>
                 小黑专属页面
             </View>
         )

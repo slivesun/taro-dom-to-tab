@@ -1,6 +1,6 @@
 import { Component } from 'react';
-import Taro from '@tarojs/taro';
-import { View, Text, Button, } from '@tarojs/components';
+// import Taro from '@tarojs/taro';
+import { View, } from '@tarojs/components';
 import './MsWang.scss'
 
 export default class MsWang extends Component {
