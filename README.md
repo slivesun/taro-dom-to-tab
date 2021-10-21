@@ -10,7 +10,7 @@ taro/react/taro-ui/Ts
 
 
 
-# 具体步骤
+# 新建dom具体步骤
 ### 1.安装taro脚手架 
 ####  node 环境（>=12.0.0）
 全局安装命令
