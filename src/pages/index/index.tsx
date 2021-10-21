@@ -20,7 +20,7 @@ export default class Index extends Component {
     render() {
         return (
             <View className='index'>
-                <AtNoticebar marquee icon='volume-plus' single speed={100}>和谐家庭共筑你我，由于时间紧迫，心力憔悴，作者张华专属页面还在紧张筹备中...</AtNoticebar>
+                <AtNoticebar marquee icon='volume-plus' single speed={100}>重要通知：和谐家庭共筑你我，由于时间紧迫，心力憔悴，作者张华专属页面还在紧张筹备中...</AtNoticebar>
                 <Swiper
                     className='test-h'
                     indicatorColor='#999'
