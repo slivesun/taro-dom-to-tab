@@ -4,7 +4,7 @@ taro/react/taro-ui/Ts
 # 本仓库为taro 多端小程序 dom
 # 技术栈taro-react风格、ts
 # ui组件库taro-ui
-## 此dom安装后可能会遇到taro-ui引入样式报错需要执行命令
+## 此dom安装依赖后可能会遇到taro-ui引入样式报错需要执行命令
 ` npm install taro-ui@3.0.0-alpha.3 `
 
 
